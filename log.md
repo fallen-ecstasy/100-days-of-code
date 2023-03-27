@@ -24,3 +24,18 @@
 - Planned and Shortlisted UI/UX Designs for Zipppin-URL Shortener, designs that i found are not exactly what i am gonna build but inspire from them and pickup best elements and from every design and mix them up to create a unique looking user-friendly UI.
 
 **Link to work:** --NONE--
+
+### Day 2: March 27, 2023
+
+**Today's Progress**: 
+- Leetcode : [**682. Baseball Game**](https://leetcode.com/problems/baseball-game/)
+- Leetcode : [**84. Largest Rectangle in Histogram**](https://leetcode.com/problems/next-greater-element-ii/)
+- GFG : [**Stock Span Problem**](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+- LEARN Database Indexing and Cases in SQL
+
+**Thoughts:**
+- 682 was an easy stack question, i solved this just to be comfortable with stack in the starting of the day.
+- Stock Span Problem was very nice variation of NGL type questions and same goes with 84. They had intruding concepts and finally i solved them by only watching video of one
+- I learned Database Index and how to make index and optimize querying using indexes makes it faster, Then solved some queries based on Cases in SQL.
+
+**Link to work:** --NONE--
